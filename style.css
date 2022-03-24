@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+h2{
+    text-align: center;
+}
+hr{
+    margin-left: 15%;
+    margin-right: 15%; 
+}
+.img_cont{
+    margin-left: 20%;
+    margin-right: 20%;
+    display: flex;
+    justify-content: space-between;
+}
+.img{
+    width: 150px;
+    height: 100px;
+}
+#canvas_cont{
+    align-items: center;
+}
+#canvas{
+    border: 1px solid black;
+    margin: 0;
+}
+.canvas-container{
+    margin-left: 25%;
+}
